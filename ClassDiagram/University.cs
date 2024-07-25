@@ -21,6 +21,7 @@ namespace ClassDiagram
 
         public void AddDepartmen(Department dep)
         {
+
             departments.Add(dep);
         }
 

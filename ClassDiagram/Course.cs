@@ -9,6 +9,7 @@ namespace ClassDiagram
     public class Course
     {
 
+
         public string Title { get; set; }
         public string CourseID { get; set; }
 
