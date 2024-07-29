@@ -13,6 +13,7 @@ namespace ClassDiagram
 
         public List<Course> Courses { get; set; }
 
+        public List<Professor> Professors { get; set; }
 
 
         public Department(string Name, string Code) 
