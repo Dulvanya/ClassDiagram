@@ -11,6 +11,10 @@ namespace ClassDiagram
         public string Name { get; set; }
         public string Code { get; set; }
 
+        public List<Course> Courses { get; set; }
+
+
+
         public Department(string Name, string Code) 
         { 
             this.Name = Name;
